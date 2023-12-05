@@ -16,7 +16,7 @@ class JustDialSpider(Spider):
     crawler_process = None
     start_urls = ['https://www.justdial.com/Mumbai/Restaurants']
     scrapeops_headers = {
-        'x-api-key': 'b497a621-cb51-4f88-9115-b89f6d0dd79d',
+        'x-api-key': 'b',
     }
 
     custom_settings = {
